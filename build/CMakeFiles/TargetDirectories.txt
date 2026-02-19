@@ -1,0 +1,4 @@
+/mnt/data/cpp_internship_projects/lru_cache/build/CMakeFiles/lru_cache_demo.dir
+/mnt/data/cpp_internship_projects/lru_cache/build/CMakeFiles/lru_cache_tests.dir
+/mnt/data/cpp_internship_projects/lru_cache/build/CMakeFiles/edit_cache.dir
+/mnt/data/cpp_internship_projects/lru_cache/build/CMakeFiles/rebuild_cache.dir
